@@ -1,0 +1,12 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "car",
+    "title": "Toyota Corolla"
+  },
+  {
+    "city": "rustburg",
+    "kind": "car",
+    "title": "Honda Civic"
+  }
+]
